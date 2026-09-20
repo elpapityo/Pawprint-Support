@@ -37,7 +37,3 @@ Pawprintの「闘獣練を自動攻略」が途中でOFFになる箇所を監視
 > **Pawprint本体について**  
 > Pawprint本体の設定および動作については、私はサポートできません。むしろ教えてほしいくらいです💦
 
-## GitHub公開用
-
-`build.bat` を実行すると、公開用ZIPが `upload/PawprintSupport_v0.1.0.zip` に作成されます。  
-GitHub Releaseには、このZIPをアップロードしてください。
