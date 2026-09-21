@@ -3,20 +3,20 @@
     "Author": "Elpa",
     "Name": "Pawprint Support",
     "InternalName": "PawprintSupport",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "Description": "Pawprintの闘獣練開始操作を補助し、戦闘中は「ひきつけろ」の自動使用とHP監視を行います。",
     "Punchline": "Pawprintの闘獣練開始操作を補助します。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.0/PawprintSupport_v0.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.0/PawprintSupport_v0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.0/PawprintSupport_v0.1.0.zip",
-    "IconUrl": "https://raw.githubusercontent.com/elpapityo/Pawprint-Support/main/images/icon.png?v=0.1.0",
+    "DownloadLinkInstall": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.1/PawprintSupport_v0.1.1.zip",
+    "DownloadLinkUpdate": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.1/PawprintSupport_v0.1.1.zip",
+    "DownloadLinkTesting": "https://github.com/elpapityo/Pawprint-Support/releases/download/V0.1.1/PawprintSupport_v0.1.1.zip",
+    "IconUrl": "https://raw.githubusercontent.com/elpapityo/Pawprint-Support/main/images/icon.png?v=0.1.1",
     "Tags": [
       "Pawprint",
       "Support",
       "闘獣練"
     ],
-    "TestingAssemblyVersion": "0.1.0.0"
+    "TestingAssemblyVersion": "0.1.1.0"
   }
 ]
